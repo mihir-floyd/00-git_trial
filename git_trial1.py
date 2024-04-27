@@ -7,5 +7,5 @@ print(a)
 print(b)
 
 c=[2,45,22,4,76]
-#plt.plot(a,b)
-#plt.show()
+plt.plot(a,b)
+plt.show()
