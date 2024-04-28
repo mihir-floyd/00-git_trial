@@ -11,3 +11,5 @@ plt.plot(a,b)
 plt.show()
 
 print (a,b,c)
+
+d=a+b

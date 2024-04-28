@@ -8,3 +8,6 @@ plt.plot(a,b)
 plt.show()
 c='text in string'
 print(a,b,c)
+
+a=a.tolist()
+d=a+b
