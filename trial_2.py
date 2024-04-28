@@ -6,5 +6,5 @@ print(a)
 b=[1,2,3]
 plt.plot(a,b)
 plt.show()
-
+c='text in string'
 print(a,b,c)
