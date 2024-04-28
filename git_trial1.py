@@ -11,3 +11,7 @@ plt.plot(a,b)
 plt.show()
 
 print (a,b,c)
+
+#changes made to git_trial1
+
+e=a+c
