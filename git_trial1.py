@@ -12,4 +12,4 @@ plt.show()
 
 print (a,b,c)
 
-d=a+b
+d=a-b

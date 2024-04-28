@@ -10,4 +10,4 @@ c='text in string'
 print(a,b,c)
 
 a=a.tolist()
-d=a+b
+d=a-b
