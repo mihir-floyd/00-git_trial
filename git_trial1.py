@@ -13,3 +13,4 @@ plt.show()
 print (a,b,c)
 
 d=a+b
+print(d)

@@ -11,3 +11,5 @@ print(a,b,c)
 
 a=a.tolist()
 d=a+b
+
+print(d)
